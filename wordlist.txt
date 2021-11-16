@@ -1,0 +1,123 @@
+//Certifications:
+CompTIA
+SSCP
+CISSP
+CISA
+CISM
+CEH
+OSCP
+ECSA
+GSEC
+GPEN
+GCIH
+CCENT
+CCNA
+CCNP
+CCIE
+CWNP
+CWSP
+CWNE
+CASP
+CPT
+CEPT
+CISSP-ISSAP
+ISSP-ISSEP
+CISSP-ISSMP
+
+//Soft Skills:
+Struktureret
+Effektiv
+Omhyggelig
+Ansvarsbevidst
+Engageret
+Beslutningsdygtig
+Holdspiller
+Agile
+
+//Misc:
+Kryptografi
+Softwareudvikling
+Risikovurdering
+Kunstig intelligens
+Machine learning
+Risikovurderinger
+Projektledelse
+Hændelsesrespons
+Hændelseshåndtering
+Incident Response
+Overvågning
+Monitoring
+Threat hunting
+Legal
+Law
+Jura
+Juridisk
+Analyse
+Security Engineering
+Security Architecture
+Vulnerability Assessment
+Penetration Testing
+
+//Technologies:
+AI
+Big Data
+Quantum
+Analytics
+IdM
+IAM
+ISMS
+GDPR
+DevSecOps
+IoT
+Cloud
+Edge Computing
+5G
+Internet of Things
+LoRaWAN
+SigFox
+NBIoT
+SOAR
+SOC
+SIEM
+EDR
+XDR
+MISP
+Kafka
+STiX
+Database
+SQL
+MongoDB
+Data Lake
+Linux
+VMWare
+Virtualization
+Azure
+AD
+Active Directory
+REST
+SSO
+IaC
+Terraform
+Infrastructure as code
+Malware
+AWS
+Amazon
+FaaS
+
+//Programming:
+Java
+Python
+C++
+C#
+.NET
+
+//Standards:
+ISO 27001
+ISO 27002
+IEC 62443
+NIST
+NIST CSF
+NIST Cybersecurity Framework
+CSA
+Cloud Security Alliance
+OWASP
