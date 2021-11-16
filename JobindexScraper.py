@@ -7,7 +7,7 @@ from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import TimeoutException
 from pprint import pprint
 from sys import platform
-import wordfile
+import FileHandler
 
 search_text_for_filename = ""
 if platform == "linux" or platform == "linux2":
@@ -34,7 +34,7 @@ def extract_items_from_urls(browser, search_text):
 
     print("All URLs visited. Writing results to file.")
 
-    wordfile.write_results_to_file(search_text, word_dict)
+    FileHandler.write_results_to_file(search_text, word_dict)
 
 
 def scrape_all_search_pages(browser, search_text):
@@ -124,10 +124,10 @@ def main():
     browser.set_page_load_timeout(10)
 
     try:
-        # word_dict = wordfile.get_word_dict()
-        # scrape_all_search_pages(browser, search_text)
-        # extract_items_from_urls(browser, search_text)
-        wordfile.export_to_csv_to_excel("results/results_for__Azure AD_")
+        word_dict = FileHandler.get_word_dict()
+        scrape_all_search_pages(browser, search_text)
+        extract_items_from_urls(browser, search_text)
+        FileHandler.plot_results()
     except Exception as e:
         print(e)
         browser.quit()

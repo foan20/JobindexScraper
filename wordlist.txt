@@ -25,6 +25,9 @@ ISSP-ISSEP
 CISSP-ISSMP
 
 //Soft Skills:
+Udadvendt
+Selvstændig
+Proaktiv
 Struktureret
 Effektiv
 Omhyggelig
@@ -33,14 +36,17 @@ Engageret
 Beslutningsdygtig
 Holdspiller
 Agile
+Koordination
 
 //Misc:
+Informationssikkerhed
+Databeskyttelse
 Kryptografi
 Softwareudvikling
 Risikovurdering
 Kunstig intelligens
 Machine learning
-Risikovurderinger
+Risikovurdering
 Projektledelse
 Hændelsesrespons
 Hændelseshåndtering
@@ -57,6 +63,9 @@ Security Engineering
 Security Architecture
 Vulnerability Assessment
 Penetration Testing
+Governance
+Risk
+Compliance
 
 //Technologies:
 AI
@@ -103,6 +112,7 @@ Malware
 AWS
 Amazon
 FaaS
+GRC
 
 //Programming:
 Java
@@ -110,6 +120,8 @@ Python
 C++
 C#
 .NET
+GoLang
+Go
 
 //Standards:
 ISO 27001
